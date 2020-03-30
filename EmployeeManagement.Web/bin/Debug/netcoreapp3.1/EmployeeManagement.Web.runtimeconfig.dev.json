@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Citycomm Developer\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Citycomm Developer\\.nuget\\packages"
+    ]
+  }
+}
